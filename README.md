@@ -4,7 +4,7 @@ The OSIsoft Message Format (OMF) defines a set of message headers and bodies tha
 
 These OMF samples are introductory, language-specific examples demonstrating how to generate OMF messages and send them to a compatible endpoint. They are intended as instructional samples only.
 
-More information on OMF can be found [here.](http://omf-docs.readthedocs.io)
+More information on OMF can be found [here.](http://omf-docs.osisoft.com)
 
 ##License
 
