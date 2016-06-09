@@ -1,0 +1,6 @@
+{
+    "producertoken": "<set producertoken here>",
+    "endpoint": "https://<host>:<port>/ingress/messages",
+    "interval": 3000,
+    "verifyCert": false
+}
